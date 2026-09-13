@@ -1,1 +1,0 @@
-Double click on the "run.html" file. A local site will appear. Please note that the conversations are stored in the browser storage so by changing the browser the conversations will disappear.
